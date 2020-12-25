@@ -4,3 +4,6 @@ node_js:
 notifications:
   email:
     - coloradocolby@gmail.com
+arch:
+    - amd64
+    - ppc64le
